@@ -1,0 +1,47 @@
+General Expenses:
+Date: 11/17/2024, Posted: 11/17/2024, Description: SQ *PARTY ADDICTS RALEIGH NC0002305843021016159473, Amount: 41.90, Category: Restaurants
+Date: 11/16/2024, Posted: 11/16/2024, Description: #11 WAKE COUNTY ABC BOAR RALEIGH NC, Amount: 23.49, Category: Government Services
+Date: 11/16/2024, Posted: 11/16/2024, Description: LYFT *RIDE SAT 11PM 8552800278 CA, Amount: 13.92, Category: Travel/ Entertainment
+Date: 11/16/2024, Posted: 11/16/2024, Description: WALMART STORE 01372 RALEIGH NC, Amount: 1.00, Category: Merchandise (Split - General)
+
+Total General Expenses: 80.31
+
+---------------------------------------------------------------------------------------------------------------------
+
+Personal Expenses:
+Date: 11/18/2024, Posted: 11/18/2024, Description: LYFT *RIDE SUN 2AM 8552800278 CA, Amount: 17.18, Category: Travel/ Entertainment
+Date: 11/17/2024, Posted: 11/17/2024, Description: AMAZON PRIME*125SN2WG3 AMZN.COM/BILLWA5QVG51GSX57, Amount: 8.01, Category: Merchandise
+Date: 11/17/2024, Posted: 11/17/2024, Description: DD *DOORDASH POPEYESLO 6506819470 CA, Amount: 25.95, Category: Restaurants
+Date: 11/16/2024, Posted: 11/16/2024, Description: WALMART STORE 01372 RALEIGH NC, Amount: 0.04, Category: Merchandise (Split - Personal)
+
+Total Personal Expenses: 51.18
+
+---------------------------------------------------------------------------------------------------------------------
+
+Expense Insights:
+
+Top 5 Most Frequent Categories:
+Travel/ Entertainment: 2
+Restaurants: 2
+Merchandise: 2
+Government Services: 1
+
+Top 5 Categories by Total Spending:
+Restaurants: 67.85
+Travel/ Entertainment: 31.1
+Government Services: 23.49
+Merchandise: 9.05
+
+Top 5 Most Frequent Merchants:
+LYFT *RIDE SAT 11PM 8552800278 CA: 1
+LYFT *RIDE SUN 2AM 8552800278 CA: 1
+AMAZON PRIME*125SN2WG3 AMZN.COM/BILLWA5QVG51GSX57: 1
+DD *DOORDASH POPEYESLO 6506819470 CA: 1
+SQ *PARTY ADDICTS RALEIGH NC0002305843021016159473: 1
+
+Top 5 Merchants by Total Spending:
+SQ *PARTY ADDICTS RALEIGH NC0002305843021016159473: 41.9
+DD *DOORDASH POPEYESLO 6506819470 CA: 25.95
+#11 WAKE COUNTY ABC BOAR RALEIGH NC: 23.49
+LYFT *RIDE SUN 2AM 8552800278 CA: 17.18
+LYFT *RIDE SAT 11PM 8552800278 CA: 13.92
